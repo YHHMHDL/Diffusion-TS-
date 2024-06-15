@@ -1,5 +1,5 @@
-# Diffusion-TS
-## 代码目录
+# 代码目录
+## Diffusion-TS
 ### 1.Turorial_0——无条件时间序列生成
 
 **包括训练、采样过程，用PCA、t-SNE、kernel三种图形展示生成序列与真实序列的符合程度。**
