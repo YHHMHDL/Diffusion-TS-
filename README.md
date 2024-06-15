@@ -1,5 +1,5 @@
 # Diffusion-TS-
-#原文环境要求
+## 原文环境要求
 torch==2.0.1
 einops==0.6.0
 ema-pytorch==0.2.1
@@ -17,3 +17,13 @@ gluonts==0.12.6
 
 urllib3 ==1.22
 keras   ==3.3.3
+
+## 本地电脑所用配置
+1.
+torch——pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+2.
+pip install gluonts 
+# as gluonts relies on mxnet 
+# install MXnet using
+pip install mxnet
