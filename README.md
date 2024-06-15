@@ -24,6 +24,4 @@ torch——pip3 install torch torchvision torchaudio --index-url https://downloa
 
 2.
 pip install gluonts 
-# as gluonts relies on mxnet 
-# install MXnet using
-pip install mxnet
+pip install mxnet   //as gluonts relies on mxnet install MXnet using
