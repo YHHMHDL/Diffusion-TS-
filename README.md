@@ -23,5 +23,8 @@ keras   ==3.3.3
 torch——pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 2.
-pip install gluonts 
-pip install mxnet   //as gluonts relies on mxnet install MXnet using
+pip install gluonts
+
+pip install mxnet   
+
+//as gluonts relies on mxnet install MXnet using
